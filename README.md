@@ -1,2 +1,2 @@
-# stock-analysis
+# Stock analysis
 Bot that updates stock prices to facilitate profitability analysis
